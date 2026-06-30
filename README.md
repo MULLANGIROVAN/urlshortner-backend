@@ -3,6 +3,10 @@
 ### 🔗 Live Application
 Frontend: https://urlshortner-frontend-nu.vercel.app/
 
+## 📂 GitHub Repository
+
+🔗 Frontend Code: https://github.com/MULLANGIROVAN/urlshortner-frontend
+
 ### ⚙️ Backend API
 The backend is hosted on Render and automatically connects to the Railway MySQL database.
 
